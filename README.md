@@ -1,7 +1,18 @@
 # Gaspard-Savoureux
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gaspard-Savoureux&show_icons=true&theme=tokyonight" right height="150" /><br>
-</div>
+<!--<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gaspard-Savoureux&show_icons=true&theme=tokyonight" /><br>
+ </div> -->
+
+ 
+ <!--
+<div align="right">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaspard-Savoureux&theme=tokyonight&hide_progress=true&langs_count=6&size_weight=0.2&count_weight=0.8&hide=javascript,css&exclude_repo=TP2,BruhMusicTM,exam_web2)" /><br>
+ </div> -->
+
+|<img src="https://github-readme-stats.vercel.app/api?username=Gaspard-Savoureux&show_icons=true&theme=tokyonight" /><br>| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaspard-Savoureux&theme=tokyonight&hide_progress=true&langs_count=6&size_weight=0.2&count_weight=0.8&hide=javascript,css&exclude_repo=TP2,BruhMusicTM,exam_web2)" width="400" /> |
+| ------------- | ------------- |
+
+
 
 ## View counter
 <div align="center">
