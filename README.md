@@ -13,6 +13,10 @@
 | ------------- | ------------- |
 
 
+<div align="center">
+    <img src="https://streak-stats.demolab.com?user=Gaspard-Savoureux&theme=tokyonight&hide_border=tru" /><br>
+ </div>
+<!-- ![GitHub Stats](https://streak-stats.demolab.com?user=Gaspard-Savoureux&theme=tokyonight&hide_border=true) -->
 
 ## View counter
 <div align="center">
